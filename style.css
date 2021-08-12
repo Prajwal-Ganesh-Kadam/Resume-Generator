@@ -1,0 +1,24 @@
+
+#cv-form{
+
+    padding: 10px;
+    background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%) fixed ;
+    /* display: none; */
+}
+
+.background{
+    background-color: #00324A;
+    color: white;
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+
+#cv-template{
+    display: none;
+    width: 650px;
+    border: 2px solid black;
+    margin: 2rem auto;
+}
